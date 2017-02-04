@@ -6,13 +6,13 @@ The critical part was to use the most relevant data analysis tools and select th
 
 Please see the report for a deeper understanding.
 
-##### Usage:
+### Usage:
 Download the data from Kaggle on the same repo, then:
 
 ```bash
 python Using_Random_Forest_Classifier.py
 ```
-##### or (best result):
+### or (best result):
 ```bash
 python Using_XGBoost_(final_script).py
 ```
